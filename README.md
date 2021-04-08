@@ -25,4 +25,4 @@ This repo will be my porfile repo for everthing in the future. you can all my pr
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/dnsghd49/SockoutJS/imgs/screenshot.png)
+![ScreenShot](https://raw.github.com/dnsghd49/SockoutJS/master/imgs/screenshot.png)
