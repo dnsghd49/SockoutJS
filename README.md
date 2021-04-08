@@ -13,13 +13,7 @@ This repo will be my porfile repo for everthing in the future. you can all my pr
 
 * [Screenshot](#screenshot)
 
-* [Installation](#installation)
-
-* [Usage](#usage)
-
 * [Contributing](#contributing)
-
-* [Tests](#tests)
 
 * [Questions](#questions)
 
