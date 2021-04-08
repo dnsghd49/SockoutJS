@@ -4,14 +4,9 @@
   [![Build Status](https://img.shields.io/github/stars/dnsghd49/SockoutJS.svg)](https://github.com/dnsghd49/SockoutJS/)
   [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/SockoutJS.svg)](https://GitHub.com/dnsghd49/SockoutJS/issues/)
 
+## Screenshot
 
-## Deployed Link:
-
-https://dnsghd49.github.io/SockoutJS/
-
-## Description
-
-This repo will be my porfile repo for everthing in the future. you can all my project with github page link within them. 
+![ScreenShot](https://raw.github.com/dnsghd49/SockoutJS/master/imgs/screenshot.png)
 
 ## Table of Contents 
 
@@ -21,9 +16,13 @@ This repo will be my porfile repo for everthing in the future. you can all my pr
 
 * [Questions](#questions)
 
-## Screenshot
+## Deployed Link:
 
-![ScreenShot](https://raw.github.com/dnsghd49/SockoutJS/master/imgs/screenshot.png)
+https://dnsghd49.github.io/SockoutJS/
+
+## Description
+
+This repo will be my porfile repo for everthing in the future. you can all my project with github page link within them. 
 
 ## Questions
 
