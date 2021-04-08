@@ -5,6 +5,10 @@
   [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/SockoutJS.svg)](https://GitHub.com/dnsghd49/SockoutJS/issues/)
 
 
+## Deployed Link:
+
+https://dnsghd49.github.io/SockoutJS/
+
 ## Description
 
 This repo will be my porfile repo for everthing in the future. you can all my project with github page link within them. 
