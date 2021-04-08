@@ -20,3 +20,7 @@ This repo will be my porfile repo for everthing in the future. you can all my pr
 ## Screenshot
 
 ![ScreenShot](https://raw.github.com/dnsghd49/SockoutJS/master/imgs/screenshot.png)
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at yunhonglu0409@gmail.com. You can find more of my work at dnsghd49.
