@@ -7,25 +7,23 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/button.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <title>My Portfolio</title>
 </head>
 
 <body style="background-image: linear-gradient(to right, rgba(3 4 34), rgba(255 0 0 / 12%));">
-    <!-- nav bar fix -->
-    <nav>
-      <ul>
-        <li>
-          <a href="index.html">Home</a>
-        </li>
-        <li>
-          <a href="portfolio.html">Projects</a>
-        </li>
-        <li>
-          <a href="contact.html">Freelance Work</a>
-        </li>
-      </ul>
-    </nav>
+  <!-- nav bar fix -->
+  <nav>
+    <ul>
+      <li>
+        <a href="index.html">Home</a>
+      </li>
+      <li>
+        <a href="portfolio.html">Projects</a>
+      </li>
+    </ul>
+  </nav>
   <section class="skills">
     <div class="container">
       <div class="row">
@@ -50,31 +48,52 @@
         </div>
       </div>
     </div>
+    <div class="frame"></div>
   </section>
 
-  <div class="container px-lg-5" style="opacity: 0.7; text-align: center; margin-bottom: 45px;">
-    <div class="row mx-lg-n5">
-      <div class="col py-3 px-lg-5 border bg-light">
-        <a href="https://github.com/dnsghd49/" target="_blank">
-          <div><i class="fa fa-github" aria-hidden="true" style="font-size:50px; color: #211F1F;"></i></div>
-        </a>
-        <a href="https://google.com" target="_blank" class="btn btn-secondary btn-lg active"
-          role="button" aria-pressed="true"></a>
-        <div class="text-center">
-          <img style="width: 100%;" src="imgs/4.jpg" class="rounded" alt="Me!">
+  <section class="skills">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <div class="card skills-card cardground">
+            <div class="skills-card-body card-body">
+              <h2 id="skills" class="card-subtitle mt-3">Contact</h2>
+              <p style="color: aliceblue;">Email: yunhonglu0409@gmail.com</p>
+              <p style="color: aliceblue;">Phone: 201-970-3133</p>
+            </div>
+          </div>
         </div>
-        <p>(yup, I was half asleep when I was taking this picture lol)</p>
-
       </div>
     </div>
-  </div>
+    <div class="frame"></div>
+  </section>
 
-
-
-
-
-
-
+  <section class="skills">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <div class="card skills-card cardground">
+            <div class="skills-card-body card-body">
+              <h2 id="skills" class="card-subtitle mt-3">About Me!</h2>
+              <p style="color: aliceblue;">Experienced Web Developer with experience in both backend and frontend development technologies. Excellent problem solver and a passion to learn new technology. Looking for an opportunity with an established, prosperous company to learn and grow with while helping the team achieve their goals.</p>
+              <div class="text-center">
+                <a href="https://github.com/dnsghd49/" target="_blank">
+                  <div><i class="fa fa-github" aria-hidden="true" style="font-size:50px; color: #211F1F;"></i></div>
+                </a>
+                <div class="frame">
+                  <a href="portfolio.html">
+                    <button href="portfolio.html" class="custom-btn btn-9">Projects</button>
+                  </a>
+                </div>
+                <img style="width: 100%;" src="imgs/4.jpg" class="rounded" alt="Me!">
+                <p>(yup, I was half asleep when I was taking this picture lol)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
     crossorigin="anonymous"></script>
